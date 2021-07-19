@@ -2,6 +2,7 @@
 Module 5 Challenge Data Analysis File Links
 - ![PyBer_Challenge.ipynb](https://github.com/aseo67/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 - ![Outputs: PyBer_fare_summary.png & PyBer Summary Table](https://github.com/aseo67/PyBer_Analysis/tree/main/analysis)
+- ![Resources folder](https://github.com/aseo67/PyBer_Analysis/tree/main/Resources)
 
 ## Overview of PyBer Analysis
 PyBer, a large ride-sharing company, is looking to understand the relationship between type of city, number of drivers and riders, and fares from rideshare data, focusing on fare data from January through April 2019 in particular. This analysis and visualizations of results will be used by the company decision makers to help PyBer improve its accessibility and affordability of ride-sharing to under-served neighborhoods. 
